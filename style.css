@@ -1,0 +1,35 @@
+.base {
+    color: skyblue;
+    text-align: center;
+    font-size: 50px;
+}
+
+.border-blue{
+    border: 5px solid black;
+}
+
+.img-size{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
+
+.margin-space{
+    margin-top: 40px;
+    margin-left: 800px;
+    margin-bottom: 40px;
+}
+
+.padding-space {
+    padding-top: 40px;
+}
+
+.md {
+    text-align: center;
+}
+
+.lp {
+    margin-left: 730px;
+    font-size: 50px;
+    text-align: center;
+}
